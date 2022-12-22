@@ -8,9 +8,9 @@ class AdminApplicationTests {
 
 	@Test
 	void contextLoads() {
-		int i=10;
-		int b =10;
-		
+		int i = 10;
+		int b = 10;
+		int c = 20;
 
 	}
 
